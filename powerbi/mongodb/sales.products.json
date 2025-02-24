@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "653a1a4e182952c67c69ec10"
+  },
+  "ProductID": 25109,
+  "ProductName": "Maximizer",
+  "Category": "FLUX",
+  "Released": 2016
+},
+{
+  "_id": {
+    "$oid": "653a1a4e182952c67c69ec14"
+  },
+  "ProductID": 25150,
+  "ProductName": "Encoder",
+  "Category": "DARO",
+  "Released": 2017
+},
+{
+  "_id": {
+    "$oid": "653a1a4e182952c67c69ec15"
+  },
+  "ProductID": 25175,
+  "ProductName": "Wobble",
+  "Category": "DARO",
+  "Released": 2018
+},
+{
+  "_id": {
+    "$oid": "653a1a4e182952c67c69ec16"
+  },
+  "ProductID": 25171,
+  "ProductName": "Pulse",
+  "Category": "KENO",
+  "Released": 2018
+},
+{
+  "_id": {
+    "$oid": "653a1a4e182952c67c69ec0e"
+  },
+  "ProductID": 25083,
+  "ProductName": "Crosser",
+  "Category": "FLUX",
+  "Released": 2015
+},
+{
+  "_id": {
+    "$oid": "653a1a4e182952c67c69ec12"
+  },
+  "ProductID": 25023,
+  "ProductName": "Capacitor",
+  "Category": "FLUX",
+  "Released": 2018
+},
+{
+  "_id": {
+    "$oid": "653a1a4e182952c67c69ec17"
+  },
+  "ProductID": 25110,
+  "ProductName": "Tilt",
+  "Category": "KENO",
+  "Released": 2016
+},
+{
+  "_id": {
+    "$oid": "653a1a4e182952c67c69ec18"
+  },
+  "ProductID": 25046,
+  "ProductName": "Risen",
+  "Category": "KENO",
+  "Released": 2017
+},
+{
+  "_id": {
+    "$oid": "653a1a4e182952c67c69ec0f"
+  },
+  "ProductID": 25022,
+  "ProductName": "Minimizer",
+  "Category": "FLUX",
+  "Released": 2015
+},
+{
+  "_id": {
+    "$oid": "653a1a4e182952c67c69ec11"
+  },
+  "ProductID": 25091,
+  "ProductName": "Optimizer",
+  "Category": "FLUX",
+  "Released": 2016
+},
+{
+  "_id": {
+    "$oid": "653a1a4e182952c67c69ec13"
+  },
+  "ProductID": 25074,
+  "ProductName": "Warper",
+  "Category": "DARO",
+  "Released": 2016
+}]

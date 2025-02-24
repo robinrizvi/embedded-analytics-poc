@@ -1,0 +1,48 @@
+/* html,
+body {
+    height: 100%;
+    background: url(./assets/90457.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+} */
+@import '@angular/material/theming';
+@include mat-core();
+@import 'ag-grid-community/styles/ag-grid.css';
+@import 'ag-grid-community/styles/ag-theme-alpine.css';
+
+$poc-web-primary: mat-palette($mat-indigo, 500);
+$poc-web-accent: mat-palette($mat-pink, A200, A100, A400);
+$poc-web-theme: mat-light-theme($poc-web-primary, $poc-web-accent);
+
+@include angular-material-theme($poc-web-theme);
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    background: url(./assets/90457.jpg) no-repeat center center fixed;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    margin: 0;
+}
+
+.powerbi-container {
+    height: 100%;
+    width: 100%;
+}
+
+iframe {
+    border: 1px solid gray;
+}

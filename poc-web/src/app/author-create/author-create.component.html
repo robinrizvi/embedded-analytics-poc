@@ -1,0 +1,25 @@
+<div class="container">
+    <div>
+        <button mat-raised-button color="primary" (click)="createPage($event)">
+            <span>Create Page</span>
+        </button>
+        <button mat-raised-button color="primary" [disabled]="authoredVisual1 !== null" (click)="createVisual1($event)">
+            <span>Create Visual 1</span>
+        </button>
+        <button mat-raised-button color="primary" [disabled]="authoredVisual2 !== null" (click)="createVisual2($event)">
+            <span>Create Visual 2</span>
+        </button>
+        <button mat-raised-button color="primary" (click)="removeVisual1($event)">
+            <span>Remove Visual 1</span>
+        </button>
+        <button mat-raised-button color="primary" (click)="removeVisual2($event)">
+            <span>Remove Visual 2</span>
+        </button>
+        <button mat-raised-button color="primary" (click)="removePage($event)">
+            <span>Remove Page</span>
+        </button>
+    </div>
+    <powerbi-report [embedConfig]="reportConfig" [cssClassName]="reportClass" [phasedEmbedding]="phasedEmbeddingFlag"
+        [eventHandlers]="eventHandlersMap">
+    </powerbi-report>
+</div>

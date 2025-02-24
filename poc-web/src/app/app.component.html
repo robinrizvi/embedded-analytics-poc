@@ -1,0 +1,179 @@
+<mat-toolbar class="mat-elevation-z8">
+  <button mat-icon-button (click)="sidenav.toggle()">
+    <mat-icon *ngIf="!sidenav.opened">menu</mat-icon>
+    <mat-icon *ngIf="sidenav.opened">close</mat-icon>
+  </button>
+  {{ title }}
+  <button mat-button [hidden]="!showLogoutButton" class="logout-button" (click)="logout()">
+    <mat-icon>logout</mat-icon>
+    <span>LogOut</span>
+  </button>
+</mat-toolbar>
+
+<mat-sidenav-container class="glass-pane-background">
+  <mat-sidenav #sidenav="matSidenav" mode="side" opened="true" class="mat-elevation-z8 glass-pane-background">
+    <img class="rounded-logo mat-elevation-z3" src="../assets/KG_Logo.png" />
+
+    <h3>{{ title }}</h3>
+
+    <mat-divider></mat-divider>
+
+    <h3>EXAMPLES</h3>
+
+    <mat-divider></mat-divider>
+
+    <h4>EMBEDDING</h4>
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button" routerLink="/embed-report" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Report</span>
+    </button>
+    <button mat-button class="menu-button" routerLink="/embed-visual" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Visual</span>
+    </button>
+    <button mat-button class="menu-button" routerLink="/embed-dashboard" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Dashboard</span>
+    </button>
+    <button mat-button class="menu-button" routerLink="/embed-tile" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Tile</span>
+    </button>
+
+    <mat-divider></mat-divider>
+
+    <h4>ADHOC EMBEDDING</h4>
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button" routerLink="/embed-adhoc-quick" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Ad-Hoc Quick</span>
+    </button>
+
+    <button mat-button class="menu-button" routerLink="/embed-adhoc-manual" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Ad-Hoc Manual</span>
+    </button>
+
+    <button mat-button class="menu-button" routerLink="/embed-qna" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Q&A</span>
+    </button>
+
+    <mat-divider></mat-divider>
+
+    <h4>CONTEXT PASSING</h4>
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button" routerLink="/context-inbound" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Inbound</span>
+    </button>
+    <button mat-button class="menu-button" routerLink="/context-outbound" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Outbound</span>
+    </button>
+
+    <mat-divider></mat-divider>
+
+    <h4>DRILL</h4>
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button" routerLink="/drill-up-down" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Drill up and down</span>
+    </button>
+    <button mat-button class="menu-button" routerLink="/drill-through" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Drill through</span>
+    </button>
+    <button mat-button class="menu-button" routerLink="/drill-pbi-app" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Drill through app</span>
+    </button>
+
+    <mat-divider></mat-divider>
+
+    <h4>AUTHORING</h4>
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button" routerLink="/author-edit" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Edit Report</span>
+    </button>
+    <button mat-button class="menu-button" routerLink="/author-create" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>Create Report</span>
+    </button>
+
+    <mat-divider></mat-divider>
+
+    <h4>SESSION VALIDATION</h4>
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button" routerLink="/session-app-validation" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>App Session</span>
+    </button>
+    <button mat-button class="menu-button" routerLink="/session-pbi-validation" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>PowerBI Session</span>
+    </button>
+
+    <mat-divider></mat-divider>
+
+    <h4>MULTI-TENANCY</h4>
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button" routerLink="/multitenancy-rls" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>RLS</span>
+    </button>
+
+    <button mat-button class="menu-button" routerLink="/multitenancy-wrkspc" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>SP Profiles</span>
+    </button>
+
+    <mat-divider></mat-divider>
+
+    <h4>DATASOURCE CONNECTIVITY</h4>
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button" routerLink="/datasource-mongo" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>MongoDB</span>
+    </button>
+
+    <button mat-button class="menu-button" routerLink="/datasource-rest" routerLinkActive="active-menu-button">
+      <mat-icon>analytics</mat-icon>
+      <span>REST</span>
+    </button>
+
+    <mat-divider></mat-divider>
+
+    <h4>Documentation</h4>
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button" routerLink="/poc-documentation" routerLinkActive="active-menu-button">
+      <mat-icon>help</mat-icon>
+      <span>Help</span>
+    </button>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <div class="content mat-elevation-z5">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

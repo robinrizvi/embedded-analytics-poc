@@ -1,0 +1,3690 @@
+[{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec27"
+  },
+  "ClientID": 94105,
+  "ProductID": 25074,
+  "OrderId": "AB1277",
+  "Revenue": 6221,
+  "SalesDate": "10/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec25"
+  },
+  "ClientID": 63742,
+  "ProductID": 25083,
+  "OrderId": "AB1278",
+  "Revenue": 3145,
+  "SalesDate": "11/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec2a"
+  },
+  "ClientID": 94153,
+  "ProductID": 25083,
+  "OrderId": "AB1274",
+  "Revenue": 4466,
+  "SalesDate": "4/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec24"
+  },
+  "ClientID": 10527,
+  "ProductID": 25150,
+  "OrderId": "AB1280",
+  "Revenue": 6887,
+  "SalesDate": "12/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec3d"
+  },
+  "ClientID": 30118,
+  "ProductID": 25171,
+  "OrderId": "AB1255",
+  "Revenue": 4080,
+  "SalesDate": "2/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec5c"
+  },
+  "ClientID": 94051,
+  "ProductID": 25074,
+  "OrderId": "AB1226",
+  "Revenue": 7116,
+  "SalesDate": "28/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec28"
+  },
+  "ClientID": 94147,
+  "ProductID": 25109,
+  "OrderId": "AB1276",
+  "Revenue": 5157,
+  "SalesDate": "7/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec2b"
+  },
+  "ClientID": 83957,
+  "ProductID": 25175,
+  "OrderId": "AB1272",
+  "Revenue": 6066,
+  "SalesDate": "30/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec2c"
+  },
+  "ClientID": 94156,
+  "ProductID": 25171,
+  "OrderId": "AB1273",
+  "Revenue": 3317,
+  "SalesDate": "30/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec4d"
+  },
+  "ClientID": 94051,
+  "ProductID": 25109,
+  "OrderId": "AB1240",
+  "Revenue": 6741,
+  "SalesDate": "8/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec57"
+  },
+  "ClientID": 19696,
+  "ProductID": 25109,
+  "OrderId": "AB1229",
+  "Revenue": 6740,
+  "SalesDate": "3/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec59"
+  },
+  "ClientID": 94082,
+  "ProductID": 25046,
+  "OrderId": "AB1227",
+  "Revenue": 3423,
+  "SalesDate": "2/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec5d"
+  },
+  "ClientID": 94086,
+  "ProductID": 25175,
+  "OrderId": "AB1223",
+  "Revenue": 4986,
+  "SalesDate": "27/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec8e"
+  },
+  "ClientID": 32950,
+  "ProductID": 25150,
+  "OrderId": "AB1174",
+  "Revenue": 6017,
+  "SalesDate": "13/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec91"
+  },
+  "ClientID": 64915,
+  "ProductID": 25083,
+  "OrderId": "AB1171",
+  "Revenue": 4591,
+  "SalesDate": "6/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec98"
+  },
+  "ClientID": 21927,
+  "ProductID": 25109,
+  "OrderId": "AB1162",
+  "Revenue": 9892,
+  "SalesDate": "29/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec9a"
+  },
+  "ClientID": 94051,
+  "ProductID": 25175,
+  "OrderId": "AB1164",
+  "Revenue": 6453,
+  "SalesDate": "29/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eca5"
+  },
+  "ClientID": 21927,
+  "ProductID": 25023,
+  "OrderId": "AB1150",
+  "Revenue": 9994,
+  "SalesDate": "19/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecad"
+  },
+  "ClientID": 60693,
+  "ProductID": 25175,
+  "OrderId": "AC1142",
+  "Revenue": 3207,
+  "SalesDate": "5/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ece1"
+  },
+  "ClientID": 94136,
+  "ProductID": 25091,
+  "OrderId": "AC1092",
+  "Revenue": 5972,
+  "SalesDate": "6/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecf7"
+  },
+  "ClientID": 94051,
+  "ProductID": 25150,
+  "OrderId": "AB1068",
+  "Revenue": 6725,
+  "SalesDate": "22/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecf8"
+  },
+  "ClientID": 94098,
+  "ProductID": 25150,
+  "OrderId": "AB1069",
+  "Revenue": 6725,
+  "SalesDate": "22/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecfa"
+  },
+  "ClientID": 94051,
+  "ProductID": 25022,
+  "OrderId": "AB1065",
+  "Revenue": 6898,
+  "SalesDate": "19/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecfc"
+  },
+  "ClientID": 94073,
+  "ProductID": 25074,
+  "OrderId": "AB1064",
+  "Revenue": 5302,
+  "SalesDate": "16/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed1c"
+  },
+  "ClientID": 69636,
+  "ProductID": 25110,
+  "OrderId": "AB1032",
+  "Revenue": 6045,
+  "SalesDate": "19/12/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed34"
+  },
+  "ClientID": 94139,
+  "ProductID": 25083,
+  "OrderId": "AB1010",
+  "Revenue": 6546,
+  "SalesDate": "4/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed59"
+  },
+  "ClientID": 94056,
+  "ProductID": 25074,
+  "OrderId": "AB972",
+  "Revenue": 6303,
+  "SalesDate": "29/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed63"
+  },
+  "ClientID": 91657,
+  "ProductID": 25022,
+  "OrderId": "AB961",
+  "Revenue": 6738,
+  "SalesDate": "16/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed68"
+  },
+  "ClientID": 94110,
+  "ProductID": 25110,
+  "OrderId": "AB956",
+  "Revenue": 5144,
+  "SalesDate": "19/4/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed78"
+  },
+  "ClientID": 94147,
+  "ProductID": 25109,
+  "OrderId": "AB940",
+  "Revenue": 5157,
+  "SalesDate": "8/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec3b"
+  },
+  "ClientID": 57082,
+  "ProductID": 25023,
+  "OrderId": "AB1257",
+  "Revenue": 3404,
+  "SalesDate": "6/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec48"
+  },
+  "ClientID": 76171,
+  "ProductID": 25109,
+  "OrderId": "AB1244",
+  "Revenue": 5090,
+  "SalesDate": "17/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec56"
+  },
+  "ClientID": 10527,
+  "ProductID": 25109,
+  "OrderId": "AB1228",
+  "Revenue": 5386,
+  "SalesDate": "3/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec94"
+  },
+  "ClientID": 94051,
+  "ProductID": 25022,
+  "OrderId": "AB1170",
+  "Revenue": 6945,
+  "SalesDate": "5/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec99"
+  },
+  "ClientID": 74795,
+  "ProductID": 25109,
+  "OrderId": "AB1163",
+  "Revenue": 9892,
+  "SalesDate": "29/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec9e"
+  },
+  "ClientID": 63742,
+  "ProductID": 25022,
+  "OrderId": "AB1161",
+  "Revenue": 4393,
+  "SalesDate": "26/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eca2"
+  },
+  "ClientID": 94102,
+  "ProductID": 25083,
+  "OrderId": "AB1157",
+  "Revenue": 4577,
+  "SalesDate": "25/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eca3"
+  },
+  "ClientID": 76531,
+  "ProductID": 25091,
+  "OrderId": "AB1153",
+  "Revenue": 4157,
+  "SalesDate": "20/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eca9"
+  },
+  "ClientID": 21927,
+  "ProductID": 25083,
+  "OrderId": "AB1146",
+  "Revenue": 6455,
+  "SalesDate": "14/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecbb"
+  },
+  "ClientID": 94156,
+  "ProductID": 25083,
+  "OrderId": "AB1130",
+  "Revenue": 5249,
+  "SalesDate": "22/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecc1"
+  },
+  "ClientID": 94051,
+  "ProductID": 25023,
+  "OrderId": "AB1125",
+  "Revenue": 6595,
+  "SalesDate": "16/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecc6"
+  },
+  "ClientID": 72377,
+  "ProductID": 25171,
+  "OrderId": "AB1117",
+  "Revenue": 6968,
+  "SalesDate": "9/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecd4"
+  },
+  "ClientID": 75712,
+  "ProductID": 25091,
+  "OrderId": "AB1105",
+  "Revenue": 5823,
+  "SalesDate": "23/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecda"
+  },
+  "ClientID": 51444,
+  "ProductID": 25171,
+  "OrderId": "AB1099",
+  "Revenue": 3442,
+  "SalesDate": "13/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed3c"
+  },
+  "ClientID": 10527,
+  "ProductID": 25150,
+  "OrderId": "AB1000",
+  "Revenue": 5380,
+  "SalesDate": "15/9/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed54"
+  },
+  "ClientID": 10527,
+  "ProductID": 25023,
+  "OrderId": "AB976",
+  "Revenue": 5661,
+  "SalesDate": "8/6/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed57"
+  },
+  "ClientID": 94091,
+  "ProductID": 25091,
+  "OrderId": "AB973",
+  "Revenue": 5013,
+  "SalesDate": "30/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed5e"
+  },
+  "ClientID": 10527,
+  "ProductID": 25091,
+  "OrderId": "AB966",
+  "Revenue": 5775,
+  "SalesDate": "25/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed64"
+  },
+  "ClientID": 76171,
+  "ProductID": 25109,
+  "OrderId": "AB960",
+  "Revenue": 5090,
+  "SalesDate": "11/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed72"
+  },
+  "ClientID": 64915,
+  "ProductID": 25091,
+  "OrderId": "AB946",
+  "Revenue": 6402,
+  "SalesDate": "29/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec3e"
+  },
+  "ClientID": 48475,
+  "ProductID": 25083,
+  "OrderId": "AB1253",
+  "Revenue": 4698,
+  "SalesDate": "1/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec40"
+  },
+  "ClientID": 21927,
+  "ProductID": 25150,
+  "OrderId": "AB1252",
+  "Revenue": 6887,
+  "SalesDate": "31/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec5b"
+  },
+  "ClientID": 88700,
+  "ProductID": 25109,
+  "OrderId": "AB1225",
+  "Revenue": 3079,
+  "SalesDate": "28/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec6c"
+  },
+  "ClientID": 94051,
+  "ProductID": 25091,
+  "OrderId": "AB1207",
+  "Revenue": 6402,
+  "SalesDate": "31/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec77"
+  },
+  "ClientID": 94136,
+  "ProductID": 25074,
+  "OrderId": "AB1199",
+  "Revenue": 6916,
+  "SalesDate": "13/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecbf"
+  },
+  "ClientID": 21927,
+  "ProductID": 25046,
+  "OrderId": "AC1123",
+  "Revenue": 9988,
+  "SalesDate": "16/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecca"
+  },
+  "ClientID": 21927,
+  "ProductID": 25074,
+  "OrderId": "AB1114",
+  "Revenue": 6916,
+  "SalesDate": "30/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecce"
+  },
+  "ClientID": 94122,
+  "ProductID": 25083,
+  "OrderId": "AB1113",
+  "Revenue": 4541,
+  "SalesDate": "27/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed02"
+  },
+  "ClientID": 69636,
+  "ProductID": 25110,
+  "OrderId": "AB1057",
+  "Revenue": 6902,
+  "SalesDate": "12/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed0d"
+  },
+  "ClientID": 88700,
+  "ProductID": 25091,
+  "OrderId": "AB1047",
+  "Revenue": 6107,
+  "SalesDate": "29/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed19"
+  },
+  "ClientID": 94116,
+  "ProductID": 25091,
+  "OrderId": "AB1035",
+  "Revenue": 5980,
+  "SalesDate": "4/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed22"
+  },
+  "ClientID": 58731,
+  "ProductID": 25074,
+  "OrderId": "AB1025",
+  "Revenue": 6489,
+  "SalesDate": "17/11/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed2d"
+  },
+  "ClientID": 94101,
+  "ProductID": 25175,
+  "OrderId": "AB1017",
+  "Revenue": 6496,
+  "SalesDate": "20/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed2e"
+  },
+  "ClientID": 94142,
+  "ProductID": 25022,
+  "OrderId": "AB1014",
+  "Revenue": 6152,
+  "SalesDate": "19/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed42"
+  },
+  "ClientID": 94146,
+  "ProductID": 25083,
+  "OrderId": "AB995",
+  "Revenue": 6669,
+  "SalesDate": "25/8/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed4b"
+  },
+  "ClientID": 10527,
+  "ProductID": 25150,
+  "OrderId": "AB985",
+  "Revenue": 5531,
+  "SalesDate": "19/7/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed75"
+  },
+  "ClientID": 88700,
+  "ProductID": 25091,
+  "OrderId": "AB943",
+  "Revenue": 5887,
+  "SalesDate": "17/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed87"
+  },
+  "ClientID": 45366,
+  "ProductID": 25175,
+  "OrderId": "AB925",
+  "Revenue": 5980,
+  "SalesDate": "16/1/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec82"
+  },
+  "ClientID": 10527,
+  "ProductID": 25074,
+  "OrderId": "AB1181",
+  "Revenue": 5442,
+  "SalesDate": "20/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec8b"
+  },
+  "ClientID": 94129,
+  "ProductID": 25023,
+  "OrderId": "AB1179",
+  "Revenue": 3404,
+  "SalesDate": "17/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecab"
+  },
+  "ClientID": 50473,
+  "ProductID": 25171,
+  "OrderId": "AC1144",
+  "Revenue": 6231,
+  "SalesDate": "7/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecba"
+  },
+  "ClientID": 33220,
+  "ProductID": 25091,
+  "OrderId": "AB1129",
+  "Revenue": 5849,
+  "SalesDate": "22/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecc0"
+  },
+  "ClientID": 60327,
+  "ProductID": 25023,
+  "OrderId": "AB1124",
+  "Revenue": 6595,
+  "SalesDate": "16/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecde"
+  },
+  "ClientID": 75878,
+  "ProductID": 25074,
+  "OrderId": "AC1094",
+  "Revenue": 4078,
+  "SalesDate": "9/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecef"
+  },
+  "ClientID": 33740,
+  "ProductID": 25091,
+  "OrderId": "AB1077",
+  "Revenue": 3679,
+  "SalesDate": "8/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecfb"
+  },
+  "ClientID": 94142,
+  "ProductID": 25022,
+  "OrderId": "AB1066",
+  "Revenue": 6898,
+  "SalesDate": "19/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed2a"
+  },
+  "ClientID": 10527,
+  "ProductID": 25150,
+  "OrderId": "AB1018",
+  "Revenue": 5320,
+  "SalesDate": "23/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed32"
+  },
+  "ClientID": 10527,
+  "ProductID": 25171,
+  "OrderId": "AB1008",
+  "Revenue": 5364,
+  "SalesDate": "4/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed3d"
+  },
+  "ClientID": 10527,
+  "ProductID": 25046,
+  "OrderId": "AB999",
+  "Revenue": 5398,
+  "SalesDate": "14/9/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed61"
+  },
+  "ClientID": 75712,
+  "ProductID": 25083,
+  "OrderId": "AB962",
+  "Revenue": 5033,
+  "SalesDate": "18/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed62"
+  },
+  "ClientID": 75712,
+  "ProductID": 25110,
+  "OrderId": "AB963",
+  "Revenue": 5818,
+  "SalesDate": "18/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed7d"
+  },
+  "ClientID": 94153,
+  "ProductID": 25083,
+  "OrderId": "AB935",
+  "Revenue": 5216,
+  "SalesDate": "15/2/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed89"
+  },
+  "ClientID": 94127,
+  "ProductID": 25046,
+  "OrderId": "AB924",
+  "Revenue": 6029,
+  "SalesDate": "11/1/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed8b"
+  },
+  "ClientID": 33220,
+  "ProductID": 25074,
+  "OrderId": "AB921",
+  "Revenue": 7071,
+  "SalesDate": "3/1/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec2d"
+  },
+  "ClientID": 12946,
+  "ProductID": 25022,
+  "OrderId": "AB1270",
+  "Revenue": 6256,
+  "SalesDate": "29/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec35"
+  },
+  "ClientID": 73936,
+  "ProductID": 25046,
+  "OrderId": "AB1261",
+  "Revenue": 6844,
+  "SalesDate": "15/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec60"
+  },
+  "ClientID": 94051,
+  "ProductID": 25171,
+  "OrderId": "AB1222",
+  "Revenue": 6338,
+  "SalesDate": "24/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec71"
+  },
+  "ClientID": 21927,
+  "ProductID": 25023,
+  "OrderId": "AB1203",
+  "Revenue": 6781,
+  "SalesDate": "20/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec79"
+  },
+  "ClientID": 94101,
+  "ProductID": 25171,
+  "OrderId": "AB1196",
+  "Revenue": 6932,
+  "SalesDate": "9/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec93"
+  },
+  "ClientID": 43429,
+  "ProductID": 25074,
+  "OrderId": "AB1169",
+  "Revenue": 5254,
+  "SalesDate": "5/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec9f"
+  },
+  "ClientID": 11518,
+  "ProductID": 25083,
+  "OrderId": "AB1154",
+  "Revenue": 3255,
+  "SalesDate": "25/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecac"
+  },
+  "ClientID": 94051,
+  "ProductID": 25171,
+  "OrderId": "AC1145",
+  "Revenue": 6231,
+  "SalesDate": "7/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecc3"
+  },
+  "ClientID": 94105,
+  "ProductID": 25091,
+  "OrderId": "AB1122",
+  "Revenue": 3496,
+  "SalesDate": "15/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecc8"
+  },
+  "ClientID": 90897,
+  "ProductID": 25091,
+  "OrderId": "AB1116",
+  "Revenue": 3569,
+  "SalesDate": "8/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecd3"
+  },
+  "ClientID": 21927,
+  "ProductID": 25171,
+  "OrderId": "AB1104",
+  "Revenue": 6932,
+  "SalesDate": "23/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecd6"
+  },
+  "ClientID": 94073,
+  "ProductID": 25022,
+  "OrderId": "AC1102",
+  "Revenue": 4242,
+  "SalesDate": "19/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ece8"
+  },
+  "ClientID": 94088,
+  "ProductID": 25175,
+  "OrderId": "AB1084",
+  "Revenue": 3084,
+  "SalesDate": "26/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed14"
+  },
+  "ClientID": 94091,
+  "ProductID": 25091,
+  "OrderId": "AB1040",
+  "Revenue": 4402,
+  "SalesDate": "18/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed16"
+  },
+  "ClientID": 94072,
+  "ProductID": 25023,
+  "OrderId": "AB1038",
+  "Revenue": 3907,
+  "SalesDate": "16/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed1e"
+  },
+  "ClientID": 51444,
+  "ProductID": 25074,
+  "OrderId": "AB1029",
+  "Revenue": 6487,
+  "SalesDate": "29/11/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed23"
+  },
+  "ClientID": 94051,
+  "ProductID": 25074,
+  "OrderId": "AB1026",
+  "Revenue": 6489,
+  "SalesDate": "17/11/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed46"
+  },
+  "ClientID": 94051,
+  "ProductID": 25023,
+  "OrderId": "AB991",
+  "Revenue": 6235,
+  "SalesDate": "3/8/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed5d"
+  },
+  "ClientID": 94051,
+  "ProductID": 25150,
+  "OrderId": "AB968",
+  "Revenue": 6716,
+  "SalesDate": "26/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed6c"
+  },
+  "ClientID": 75878,
+  "ProductID": 25074,
+  "OrderId": "AB952",
+  "Revenue": 7116,
+  "SalesDate": "9/4/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed74"
+  },
+  "ClientID": 94129,
+  "ProductID": 25022,
+  "OrderId": "AB944",
+  "Revenue": 6404,
+  "SalesDate": "23/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed79"
+  },
+  "ClientID": 72377,
+  "ProductID": 25110,
+  "OrderId": "AB937",
+  "Revenue": 6426,
+  "SalesDate": "2/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed88"
+  },
+  "ClientID": 21927,
+  "ProductID": 25074,
+  "OrderId": "AB923",
+  "Revenue": 6953,
+  "SalesDate": "11/1/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec30"
+  },
+  "ClientID": 94139,
+  "ProductID": 25083,
+  "OrderId": "AB1269",
+  "Revenue": 6392,
+  "SalesDate": "27/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec1d"
+  },
+  "ClientID": 10527,
+  "ProductID": 25171,
+  "OrderId": "AB1287",
+  "Revenue": 5341,
+  "SalesDate": "25/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec3f"
+  },
+  "ClientID": 91657,
+  "ProductID": 25022,
+  "OrderId": "AB1254",
+  "Revenue": 3513,
+  "SalesDate": "1/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec51"
+  },
+  "ClientID": 94147,
+  "ProductID": 25083,
+  "OrderId": "AB1238",
+  "Revenue": 6935,
+  "SalesDate": "5/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec62"
+  },
+  "ClientID": 65315,
+  "ProductID": 25022,
+  "OrderId": "AB1219",
+  "Revenue": 3827,
+  "SalesDate": "21/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec67"
+  },
+  "ClientID": 59430,
+  "ProductID": 25083,
+  "OrderId": "AB1213",
+  "Revenue": 5261,
+  "SalesDate": "11/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec74"
+  },
+  "ClientID": 94136,
+  "ProductID": 25091,
+  "OrderId": "AB1200",
+  "Revenue": 5934,
+  "SalesDate": "15/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec78"
+  },
+  "ClientID": 94051,
+  "ProductID": 25109,
+  "OrderId": "AB1195",
+  "Revenue": 6849,
+  "SalesDate": "9/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec7d"
+  },
+  "ClientID": 21927,
+  "ProductID": 25083,
+  "OrderId": "AB1190",
+  "Revenue": 6935,
+  "SalesDate": "3/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec80"
+  },
+  "ClientID": 64915,
+  "ProductID": 25150,
+  "OrderId": "AB1188",
+  "Revenue": 6187,
+  "SalesDate": "31/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec89"
+  },
+  "ClientID": 31606,
+  "ProductID": 25171,
+  "OrderId": "AB1177",
+  "Revenue": 6481,
+  "SalesDate": "17/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec8d"
+  },
+  "ClientID": 94128,
+  "ProductID": 25150,
+  "OrderId": "AB1176",
+  "Revenue": 3307,
+  "SalesDate": "16/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec92"
+  },
+  "ClientID": 21927,
+  "ProductID": 25175,
+  "OrderId": "AB1168",
+  "Revenue": 6998,
+  "SalesDate": "5/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecb4"
+  },
+  "ClientID": 86467,
+  "ProductID": 25083,
+  "OrderId": "AC1135",
+  "Revenue": 4566,
+  "SalesDate": "30/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecd1"
+  },
+  "ClientID": 88700,
+  "ProductID": 25109,
+  "OrderId": "AB1106",
+  "Revenue": 5147,
+  "SalesDate": "25/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed04"
+  },
+  "ClientID": 75712,
+  "ProductID": 25083,
+  "OrderId": "AB1054",
+  "Revenue": 5033,
+  "SalesDate": "8/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed05"
+  },
+  "ClientID": 94051,
+  "ProductID": 25023,
+  "OrderId": "AB1055",
+  "Revenue": 6381,
+  "SalesDate": "8/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed06"
+  },
+  "ClientID": 94086,
+  "ProductID": 25023,
+  "OrderId": "AB1056",
+  "Revenue": 6381,
+  "SalesDate": "8/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed07"
+  },
+  "ClientID": 10527,
+  "ProductID": 25046,
+  "OrderId": "AB1053",
+  "Revenue": 5668,
+  "SalesDate": "7/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed1b"
+  },
+  "ClientID": 59805,
+  "ProductID": 25046,
+  "OrderId": "AB1033",
+  "Revenue": 3582,
+  "SalesDate": "1/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed1d"
+  },
+  "ClientID": 94070,
+  "ProductID": 25046,
+  "OrderId": "AB1031",
+  "Revenue": 6046,
+  "SalesDate": "18/12/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed25"
+  },
+  "ClientID": 94051,
+  "ProductID": 25083,
+  "OrderId": "AB1024",
+  "Revenue": 6494,
+  "SalesDate": "7/11/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed27"
+  },
+  "ClientID": 91657,
+  "ProductID": 25022,
+  "OrderId": "AB1021",
+  "Revenue": 5302,
+  "SalesDate": "1/11/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed39"
+  },
+  "ClientID": 93816,
+  "ProductID": 25023,
+  "OrderId": "AB1002",
+  "Revenue": 6607,
+  "SalesDate": "21/9/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed4e"
+  },
+  "ClientID": 10527,
+  "ProductID": 25110,
+  "OrderId": "AB982",
+  "Revenue": 5542,
+  "SalesDate": "13/7/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed8a"
+  },
+  "ClientID": 94082,
+  "ProductID": 25175,
+  "OrderId": "AB922",
+  "Revenue": 6453,
+  "SalesDate": "5/1/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec4e"
+  },
+  "ClientID": 10527,
+  "ProductID": 25109,
+  "OrderId": "AB1235",
+  "Revenue": 3202,
+  "SalesDate": "5/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec22"
+  },
+  "ClientID": 94146,
+  "ProductID": 25083,
+  "OrderId": "AB1282",
+  "Revenue": 4023,
+  "SalesDate": "14/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec2e"
+  },
+  "ClientID": 93816,
+  "ProductID": 25023,
+  "OrderId": "AB1271",
+  "Revenue": 3733,
+  "SalesDate": "29/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec1f"
+  },
+  "ClientID": 36342,
+  "ProductID": 25171,
+  "OrderId": "AB1285",
+  "Revenue": 4867,
+  "SalesDate": "21/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec37"
+  },
+  "ClientID": 94056,
+  "ProductID": 25074,
+  "OrderId": "AB1263",
+  "Revenue": 4906,
+  "SalesDate": "15/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec69"
+  },
+  "ClientID": 94082,
+  "ProductID": 25083,
+  "OrderId": "AB1212",
+  "Revenue": 6822,
+  "SalesDate": "4/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec83"
+  },
+  "ClientID": 15280,
+  "ProductID": 25171,
+  "OrderId": "AB1182",
+  "Revenue": 6661,
+  "SalesDate": "20/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec84"
+  },
+  "ClientID": 92671,
+  "ProductID": 25110,
+  "OrderId": "AB1183",
+  "Revenue": 5216,
+  "SalesDate": "20/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec97"
+  },
+  "ClientID": 94051,
+  "ProductID": 25074,
+  "OrderId": "AB1167",
+  "Revenue": 6953,
+  "SalesDate": "2/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecaa"
+  },
+  "ClientID": 86467,
+  "ProductID": 25083,
+  "OrderId": "AB1147",
+  "Revenue": 6455,
+  "SalesDate": "14/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecb9"
+  },
+  "ClientID": 21927,
+  "ProductID": 25083,
+  "OrderId": "AB1132",
+  "Revenue": 6822,
+  "SalesDate": "24/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecbc"
+  },
+  "ClientID": 94051,
+  "ProductID": 25074,
+  "OrderId": "AB1127",
+  "Revenue": 6863,
+  "SalesDate": "21/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ece2"
+  },
+  "ClientID": 94127,
+  "ProductID": 25083,
+  "OrderId": "AC1090",
+  "Revenue": 4568,
+  "SalesDate": "5/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecf0"
+  },
+  "ClientID": 94110,
+  "ProductID": 25150,
+  "OrderId": "AB1076",
+  "Revenue": 3173,
+  "SalesDate": "5/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecf1"
+  },
+  "ClientID": 65315,
+  "ProductID": 25109,
+  "OrderId": "AB1075",
+  "Revenue": 6136,
+  "SalesDate": "2/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed26"
+  },
+  "ClientID": 19696,
+  "ProductID": 25109,
+  "OrderId": "AB1022",
+  "Revenue": 5261,
+  "SalesDate": "3/11/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed2b"
+  },
+  "ClientID": 10527,
+  "ProductID": 25074,
+  "OrderId": "AB1015",
+  "Revenue": 5356,
+  "SalesDate": "20/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed36"
+  },
+  "ClientID": 94051,
+  "ProductID": 25175,
+  "OrderId": "AB1005",
+  "Revenue": 6566,
+  "SalesDate": "29/9/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed37"
+  },
+  "ClientID": 94086,
+  "ProductID": 25175,
+  "OrderId": "AB1006",
+  "Revenue": 6566,
+  "SalesDate": "29/9/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed4f"
+  },
+  "ClientID": 94051,
+  "ProductID": 25022,
+  "OrderId": "AB980",
+  "Revenue": 6300,
+  "SalesDate": "26/6/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed56"
+  },
+  "ClientID": 94051,
+  "ProductID": 25022,
+  "OrderId": "AB975",
+  "Revenue": 6704,
+  "SalesDate": "5/6/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed5a"
+  },
+  "ClientID": 72483,
+  "ProductID": 25091,
+  "OrderId": "AB969",
+  "Revenue": 6258,
+  "SalesDate": "28/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed6b"
+  },
+  "ClientID": 94105,
+  "ProductID": 25074,
+  "OrderId": "AB953",
+  "Revenue": 6325,
+  "SalesDate": "11/4/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed71"
+  },
+  "ClientID": 94110,
+  "ProductID": 25091,
+  "OrderId": "AB947",
+  "Revenue": 5875,
+  "SalesDate": "30/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed7e"
+  },
+  "ClientID": 94146,
+  "ProductID": 25022,
+  "OrderId": "AB934",
+  "Revenue": 5221,
+  "SalesDate": "13/2/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec1e"
+  },
+  "ClientID": 94056,
+  "ProductID": 25023,
+  "OrderId": "AB1286",
+  "Revenue": 3883,
+  "SalesDate": "24/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec1b"
+  },
+  "ClientID": 15280,
+  "ProductID": 25109,
+  "OrderId": "AB1289",
+  "Revenue": 4115,
+  "SalesDate": "28/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec20"
+  },
+  "ClientID": 94091,
+  "ProductID": 25091,
+  "OrderId": "AB1284",
+  "Revenue": 5013,
+  "SalesDate": "20/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec68"
+  },
+  "ClientID": 94051,
+  "ProductID": 25022,
+  "OrderId": "AB1211",
+  "Revenue": 6356,
+  "SalesDate": "4/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec70"
+  },
+  "ClientID": 21927,
+  "ProductID": 25046,
+  "OrderId": "AB1204",
+  "Revenue": 6844,
+  "SalesDate": "23/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec7a"
+  },
+  "ClientID": 18850,
+  "ProductID": 25175,
+  "OrderId": "AB1193",
+  "Revenue": 5106,
+  "SalesDate": "8/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec86"
+  },
+  "ClientID": 94051,
+  "ProductID": 25110,
+  "OrderId": "AB1185",
+  "Revenue": 6426,
+  "SalesDate": "20/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec96"
+  },
+  "ClientID": 43429,
+  "ProductID": 25109,
+  "OrderId": "AB1166",
+  "Revenue": 6536,
+  "SalesDate": "2/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecae"
+  },
+  "ClientID": 94101,
+  "ProductID": 25046,
+  "OrderId": "AC1143",
+  "Revenue": 3780,
+  "SalesDate": "5/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecb7"
+  },
+  "ClientID": 21927,
+  "ProductID": 25022,
+  "OrderId": "AB1133",
+  "Revenue": 6841,
+  "SalesDate": "25/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecb8"
+  },
+  "ClientID": 10527,
+  "ProductID": 25109,
+  "OrderId": "AC1131",
+  "Revenue": 5689,
+  "SalesDate": "24/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecbd"
+  },
+  "ClientID": 94131,
+  "ProductID": 25074,
+  "OrderId": "AB1128",
+  "Revenue": 6863,
+  "SalesDate": "21/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecbe"
+  },
+  "ClientID": 43429,
+  "ProductID": 25022,
+  "OrderId": "AC1126",
+  "Revenue": 4362,
+  "SalesDate": "17/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eccb"
+  },
+  "ClientID": 71739,
+  "ProductID": 25091,
+  "OrderId": "AB1110",
+  "Revenue": 3678,
+  "SalesDate": "27/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecd2"
+  },
+  "ClientID": 94073,
+  "ProductID": 25091,
+  "OrderId": "AB1107",
+  "Revenue": 5844,
+  "SalesDate": "25/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eceb"
+  },
+  "ClientID": 58731,
+  "ProductID": 25175,
+  "OrderId": "AB1082",
+  "Revenue": 5092,
+  "SalesDate": "20/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecec"
+  },
+  "ClientID": 61285,
+  "ProductID": 25023,
+  "OrderId": "AB1080",
+  "Revenue": 6092,
+  "SalesDate": "19/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecf6"
+  },
+  "ClientID": 91657,
+  "ProductID": 25091,
+  "OrderId": "AB1070",
+  "Revenue": 5917,
+  "SalesDate": "23/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed09"
+  },
+  "ClientID": 21927,
+  "ProductID": 25171,
+  "OrderId": "AB1050",
+  "Revenue": 6481,
+  "SalesDate": "5/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed11"
+  },
+  "ClientID": 76171,
+  "ProductID": 25150,
+  "OrderId": "AB1043",
+  "Revenue": 3067,
+  "SalesDate": "24/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed3f"
+  },
+  "ClientID": 94051,
+  "ProductID": 25074,
+  "OrderId": "AB996",
+  "Revenue": 6662,
+  "SalesDate": "5/9/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed44"
+  },
+  "ClientID": 10527,
+  "ProductID": 25110,
+  "OrderId": "AB992",
+  "Revenue": 5512,
+  "SalesDate": "11/8/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed47"
+  },
+  "ClientID": 48475,
+  "ProductID": 25091,
+  "OrderId": "AB988",
+  "Revenue": 6236,
+  "SalesDate": "2/8/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed4d"
+  },
+  "ClientID": 94051,
+  "ProductID": 25171,
+  "OrderId": "AB984",
+  "Revenue": 6676,
+  "SalesDate": "18/7/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed73"
+  },
+  "ClientID": 88700,
+  "ProductID": 25109,
+  "OrderId": "AB945",
+  "Revenue": 5147,
+  "SalesDate": "24/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed81"
+  },
+  "ClientID": 72483,
+  "ProductID": 25074,
+  "OrderId": "AB931",
+  "Revenue": 5239,
+  "SalesDate": "3/2/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec2f"
+  },
+  "ClientID": 94051,
+  "ProductID": 25109,
+  "OrderId": "AB1268",
+  "Revenue": 6726,
+  "SalesDate": "27/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec6d"
+  },
+  "ClientID": 94139,
+  "ProductID": 25046,
+  "OrderId": "AB1208",
+  "Revenue": 6352,
+  "SalesDate": "31/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec9c"
+  },
+  "ClientID": 18850,
+  "ProductID": 25022,
+  "OrderId": "AB1159",
+  "Revenue": 3940,
+  "SalesDate": "26/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecb3"
+  },
+  "ClientID": 19696,
+  "ProductID": 25023,
+  "OrderId": "AB1137",
+  "Revenue": 4209,
+  "SalesDate": "31/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecdc"
+  },
+  "ClientID": 94153,
+  "ProductID": 25083,
+  "OrderId": "AB1097",
+  "Revenue": 5216,
+  "SalesDate": "10/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecfe"
+  },
+  "ClientID": 94130,
+  "ProductID": 25074,
+  "OrderId": "AB1063",
+  "Revenue": 4164,
+  "SalesDate": "15/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed00"
+  },
+  "ClientID": 10527,
+  "ProductID": 25046,
+  "OrderId": "AB1059",
+  "Revenue": 5436,
+  "SalesDate": "13/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed15"
+  },
+  "ClientID": 16770,
+  "ProductID": 25091,
+  "OrderId": "AB1039",
+  "Revenue": 5968,
+  "SalesDate": "17/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed4a"
+  },
+  "ClientID": 94051,
+  "ProductID": 25109,
+  "OrderId": "AB987",
+  "Revenue": 6271,
+  "SalesDate": "28/7/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed58"
+  },
+  "ClientID": 94051,
+  "ProductID": 25074,
+  "OrderId": "AB971",
+  "Revenue": 6303,
+  "SalesDate": "29/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed5f"
+  },
+  "ClientID": 94074,
+  "ProductID": 25109,
+  "OrderId": "AB965",
+  "Revenue": 6726,
+  "SalesDate": "22/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed65"
+  },
+  "ClientID": 10527,
+  "ProductID": 25109,
+  "OrderId": "AB959",
+  "Revenue": 6741,
+  "SalesDate": "2/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed6e"
+  },
+  "ClientID": 94136,
+  "ProductID": 25171,
+  "OrderId": "AB950",
+  "Revenue": 6338,
+  "SalesDate": "4/4/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec49"
+  },
+  "ClientID": 21927,
+  "ProductID": 25074,
+  "OrderId": "AB1243",
+  "Revenue": 4372,
+  "SalesDate": "16/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec4b"
+  },
+  "ClientID": 58731,
+  "ProductID": 25083,
+  "OrderId": "AB1241",
+  "Revenue": 4192,
+  "SalesDate": "10/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec52"
+  },
+  "ClientID": 21927,
+  "ProductID": 25022,
+  "OrderId": "AB1231",
+  "Revenue": 6256,
+  "SalesDate": "4/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec5a"
+  },
+  "ClientID": 21227,
+  "ProductID": 25022,
+  "OrderId": "AB1224",
+  "Revenue": 6506,
+  "SalesDate": "28/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec64"
+  },
+  "ClientID": 21927,
+  "ProductID": 25083,
+  "OrderId": "AB1216",
+  "Revenue": 6392,
+  "SalesDate": "18/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecc2"
+  },
+  "ClientID": 94056,
+  "ProductID": 25083,
+  "OrderId": "AB1121",
+  "Revenue": 3993,
+  "SalesDate": "15/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ece0"
+  },
+  "ClientID": 26001,
+  "ProductID": 25083,
+  "OrderId": "AB1091",
+  "Revenue": 4680,
+  "SalesDate": "6/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ece7"
+  },
+  "ClientID": 94051,
+  "ProductID": 25074,
+  "OrderId": "AB1086",
+  "Revenue": 6249,
+  "SalesDate": "29/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecee"
+  },
+  "ClientID": 51760,
+  "ProductID": 25083,
+  "OrderId": "AB1078",
+  "Revenue": 4482,
+  "SalesDate": "12/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecf9"
+  },
+  "ClientID": 94102,
+  "ProductID": 25022,
+  "OrderId": "AB1067",
+  "Revenue": 3002,
+  "SalesDate": "20/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed20"
+  },
+  "ClientID": 71567,
+  "ProductID": 25109,
+  "OrderId": "AB1028",
+  "Revenue": 6133,
+  "SalesDate": "27/11/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed21"
+  },
+  "ClientID": 94130,
+  "ProductID": 25074,
+  "OrderId": "AB1027",
+  "Revenue": 6143,
+  "SalesDate": "21/11/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed29"
+  },
+  "ClientID": 94051,
+  "ProductID": 25091,
+  "OrderId": "AB1020",
+  "Revenue": 7086,
+  "SalesDate": "29/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed2c"
+  },
+  "ClientID": 94051,
+  "ProductID": 25175,
+  "OrderId": "AB1016",
+  "Revenue": 6496,
+  "SalesDate": "20/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed2f"
+  },
+  "ClientID": 21345,
+  "ProductID": 25083,
+  "OrderId": "AB1011",
+  "Revenue": 6509,
+  "SalesDate": "17/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed38"
+  },
+  "ClientID": 26875,
+  "ProductID": 25175,
+  "OrderId": "AB1004",
+  "Revenue": 6214,
+  "SalesDate": "27/9/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed43"
+  },
+  "ClientID": 10527,
+  "ProductID": 25083,
+  "OrderId": "AB993",
+  "Revenue": 5462,
+  "SalesDate": "24/8/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed48"
+  },
+  "ClientID": 94051,
+  "ProductID": 25091,
+  "OrderId": "AB989",
+  "Revenue": 6236,
+  "SalesDate": "2/8/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed60"
+  },
+  "ClientID": 19696,
+  "ProductID": 25023,
+  "OrderId": "AB964",
+  "Revenue": 6738,
+  "SalesDate": "19/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed6f"
+  },
+  "ClientID": 12946,
+  "ProductID": 25022,
+  "OrderId": "AB949",
+  "Revenue": 6356,
+  "SalesDate": "3/4/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed76"
+  },
+  "ClientID": 94147,
+  "ProductID": 25091,
+  "OrderId": "AB942",
+  "Revenue": 5891,
+  "SalesDate": "16/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed77"
+  },
+  "ClientID": 15280,
+  "ProductID": 25109,
+  "OrderId": "AB941",
+  "Revenue": 6849,
+  "SalesDate": "15/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed80"
+  },
+  "ClientID": 86467,
+  "ProductID": 25083,
+  "OrderId": "AB932",
+  "Revenue": 6449,
+  "SalesDate": "8/2/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec21"
+  },
+  "ClientID": 69979,
+  "ProductID": 25091,
+  "OrderId": "AB1283",
+  "Revenue": 4254,
+  "SalesDate": "18/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec23"
+  },
+  "ClientID": 86004,
+  "ProductID": 25046,
+  "OrderId": "AB1281",
+  "Revenue": 3481,
+  "SalesDate": "13/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec33"
+  },
+  "ClientID": 94124,
+  "ProductID": 25175,
+  "OrderId": "AB1265",
+  "Revenue": 3479,
+  "SalesDate": "20/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec41"
+  },
+  "ClientID": 94051,
+  "ProductID": 25022,
+  "OrderId": "AB1250",
+  "Revenue": 6738,
+  "SalesDate": "30/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec50"
+  },
+  "ClientID": 94051,
+  "ProductID": 25175,
+  "OrderId": "AB1237",
+  "Revenue": 6305,
+  "SalesDate": "5/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec66"
+  },
+  "ClientID": 94156,
+  "ProductID": 25046,
+  "OrderId": "AB1214",
+  "Revenue": 4299,
+  "SalesDate": "17/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec72"
+  },
+  "ClientID": 21927,
+  "ProductID": 25023,
+  "OrderId": "AB1201",
+  "Revenue": 6342,
+  "SalesDate": "16/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec7b"
+  },
+  "ClientID": 94076,
+  "ProductID": 25046,
+  "OrderId": "AB1194",
+  "Revenue": 4200,
+  "SalesDate": "8/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec7e"
+  },
+  "ClientID": 86467,
+  "ProductID": 25175,
+  "OrderId": "AB1191",
+  "Revenue": 4166,
+  "SalesDate": "3/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec90"
+  },
+  "ClientID": 94146,
+  "ProductID": 25091,
+  "OrderId": "AB1173",
+  "Revenue": 5110,
+  "SalesDate": "10/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eca7"
+  },
+  "ClientID": 94051,
+  "ProductID": 25074,
+  "OrderId": "AB1152",
+  "Revenue": 7071,
+  "SalesDate": "19/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecb0"
+  },
+  "ClientID": 21227,
+  "ProductID": 25083,
+  "OrderId": "AC1138",
+  "Revenue": 4864,
+  "SalesDate": "1/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecd7"
+  },
+  "ClientID": 94051,
+  "ProductID": 25022,
+  "OrderId": "AB1100",
+  "Revenue": 6720,
+  "SalesDate": "18/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ece5"
+  },
+  "ClientID": 94075,
+  "ProductID": 25171,
+  "OrderId": "AB1087",
+  "Revenue": 3306,
+  "SalesDate": "3/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed13"
+  },
+  "ClientID": 94051,
+  "ProductID": 25110,
+  "OrderId": "AB1042",
+  "Revenue": 6662,
+  "SalesDate": "22/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed3e"
+  },
+  "ClientID": 50473,
+  "ProductID": 25171,
+  "OrderId": "AB998",
+  "Revenue": 6215,
+  "SalesDate": "11/9/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed55"
+  },
+  "ClientID": 43429,
+  "ProductID": 25022,
+  "OrderId": "AB974",
+  "Revenue": 6704,
+  "SalesDate": "5/6/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed66"
+  },
+  "ClientID": 79610,
+  "ProductID": 25175,
+  "OrderId": "AB958",
+  "Revenue": 6305,
+  "SalesDate": "1/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed6d"
+  },
+  "ClientID": 18850,
+  "ProductID": 25091,
+  "OrderId": "AB951",
+  "Revenue": 5838,
+  "SalesDate": "7/4/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec1c"
+  },
+  "ClientID": 59430,
+  "ProductID": 25074,
+  "OrderId": "AB1288",
+  "Revenue": 3164,
+  "SalesDate": "26/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec36"
+  },
+  "ClientID": 94051,
+  "ProductID": 25023,
+  "OrderId": "AB1262",
+  "Revenue": 6738,
+  "SalesDate": "15/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec38"
+  },
+  "ClientID": 79610,
+  "ProductID": 25091,
+  "OrderId": "AB1260",
+  "Revenue": 3791,
+  "SalesDate": "12/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec3a"
+  },
+  "ClientID": 31606,
+  "ProductID": 25110,
+  "OrderId": "AB1258",
+  "Revenue": 4257,
+  "SalesDate": "7/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec3c"
+  },
+  "ClientID": 94141,
+  "ProductID": 25023,
+  "OrderId": "AB1256",
+  "Revenue": 3152,
+  "SalesDate": "5/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec42"
+  },
+  "ClientID": 94153,
+  "ProductID": 25023,
+  "OrderId": "AB1251",
+  "Revenue": 6781,
+  "SalesDate": "30/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec43"
+  },
+  "ClientID": 14740,
+  "ProductID": 25083,
+  "OrderId": "AB1249",
+  "Revenue": 4486,
+  "SalesDate": "29/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec44"
+  },
+  "ClientID": 45366,
+  "ProductID": 25091,
+  "OrderId": "AB1248",
+  "Revenue": 3764,
+  "SalesDate": "26/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec76"
+  },
+  "ClientID": 94051,
+  "ProductID": 25022,
+  "OrderId": "AB1198",
+  "Revenue": 6404,
+  "SalesDate": "13/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eca4"
+  },
+  "ClientID": 21927,
+  "ProductID": 25023,
+  "OrderId": "AB1149",
+  "Revenue": 9994,
+  "SalesDate": "19/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecb5"
+  },
+  "ClientID": 94146,
+  "ProductID": 25022,
+  "OrderId": "AC1136",
+  "Revenue": 5221,
+  "SalesDate": "30/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eccd"
+  },
+  "ClientID": 94083,
+  "ProductID": 25110,
+  "OrderId": "AB1112",
+  "Revenue": 6920,
+  "SalesDate": "27/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecdb"
+  },
+  "ClientID": 21927,
+  "ProductID": 25171,
+  "OrderId": "AC1096",
+  "Revenue": 6661,
+  "SalesDate": "10/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecf5"
+  },
+  "ClientID": 94109,
+  "ProductID": 25150,
+  "OrderId": "AB1072",
+  "Revenue": 6080,
+  "SalesDate": "26/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecfd"
+  },
+  "ClientID": 51444,
+  "ProductID": 25091,
+  "OrderId": "AB1062",
+  "Revenue": 5855,
+  "SalesDate": "15/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecff"
+  },
+  "ClientID": 71567,
+  "ProductID": 25091,
+  "OrderId": "AB1061",
+  "Revenue": 5850,
+  "SalesDate": "14/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed01"
+  },
+  "ClientID": 94105,
+  "ProductID": 25083,
+  "OrderId": "AB1060",
+  "Revenue": 3097,
+  "SalesDate": "13/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed08"
+  },
+  "ClientID": 10527,
+  "ProductID": 25175,
+  "OrderId": "AB1052",
+  "Revenue": 5441,
+  "SalesDate": "6/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed0b"
+  },
+  "ClientID": 92671,
+  "ProductID": 25022,
+  "OrderId": "AB1049",
+  "Revenue": 4226,
+  "SalesDate": "1/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed12"
+  },
+  "ClientID": 75712,
+  "ProductID": 25110,
+  "OrderId": "AB1041",
+  "Revenue": 6662,
+  "SalesDate": "22/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed1f"
+  },
+  "ClientID": 94051,
+  "ProductID": 25074,
+  "OrderId": "AB1030",
+  "Revenue": 6487,
+  "SalesDate": "29/11/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed24"
+  },
+  "ClientID": 63742,
+  "ProductID": 25083,
+  "OrderId": "AB1023",
+  "Revenue": 6494,
+  "SalesDate": "7/11/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed70"
+  },
+  "ClientID": 59430,
+  "ProductID": 25023,
+  "OrderId": "AB948",
+  "Revenue": 6382,
+  "SalesDate": "31/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed7a"
+  },
+  "ClientID": 92671,
+  "ProductID": 25110,
+  "OrderId": "AB938",
+  "Revenue": 5216,
+  "SalesDate": "2/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed82"
+  },
+  "ClientID": 94156,
+  "ProductID": 25083,
+  "OrderId": "AB930",
+  "Revenue": 5249,
+  "SalesDate": "1/2/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed83"
+  },
+  "ClientID": 43429,
+  "ProductID": 25074,
+  "OrderId": "AB929",
+  "Revenue": 5254,
+  "SalesDate": "31/1/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed85"
+  },
+  "ClientID": 42510,
+  "ProductID": 25150,
+  "OrderId": "AB927",
+  "Revenue": 5257,
+  "SalesDate": "23/1/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec26"
+  },
+  "ClientID": 94082,
+  "ProductID": 25083,
+  "OrderId": "AB1279",
+  "Revenue": 4664,
+  "SalesDate": "11/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec29"
+  },
+  "ClientID": 72377,
+  "ProductID": 25110,
+  "OrderId": "AB1275",
+  "Revenue": 3982,
+  "SalesDate": "5/12/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec31"
+  },
+  "ClientID": 94122,
+  "ProductID": 25150,
+  "OrderId": "AB1267",
+  "Revenue": 6008,
+  "SalesDate": "26/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec47"
+  },
+  "ClientID": 21345,
+  "ProductID": 25150,
+  "OrderId": "AB1245",
+  "Revenue": 4919,
+  "SalesDate": "22/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec53"
+  },
+  "ClientID": 76171,
+  "ProductID": 25091,
+  "OrderId": "AB1232",
+  "Revenue": 3504,
+  "SalesDate": "4/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec5e"
+  },
+  "ClientID": 21345,
+  "ProductID": 25083,
+  "OrderId": "AB1220",
+  "Revenue": 4058,
+  "SalesDate": "24/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec5f"
+  },
+  "ClientID": 72377,
+  "ProductID": 25022,
+  "OrderId": "AB1221",
+  "Revenue": 6841,
+  "SalesDate": "24/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec6e"
+  },
+  "ClientID": 71567,
+  "ProductID": 25110,
+  "OrderId": "AB1206",
+  "Revenue": 3320,
+  "SalesDate": "29/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec75"
+  },
+  "ClientID": 64247,
+  "ProductID": 25046,
+  "OrderId": "AB1197",
+  "Revenue": 4098,
+  "SalesDate": "13/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec81"
+  },
+  "ClientID": 21927,
+  "ProductID": 25022,
+  "OrderId": "AB1187",
+  "Revenue": 6276,
+  "SalesDate": "27/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec87"
+  },
+  "ClientID": 94052,
+  "ProductID": 25110,
+  "OrderId": "AB1186",
+  "Revenue": 9912,
+  "SalesDate": "20/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eca1"
+  },
+  "ClientID": 42615,
+  "ProductID": 25074,
+  "OrderId": "AB1156",
+  "Revenue": 6158,
+  "SalesDate": "25/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecaf"
+  },
+  "ClientID": 94110,
+  "ProductID": 25110,
+  "OrderId": "AC1141",
+  "Revenue": 5144,
+  "SalesDate": "4/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecb1"
+  },
+  "ClientID": 42510,
+  "ProductID": 25150,
+  "OrderId": "AC1139",
+  "Revenue": 3376,
+  "SalesDate": "1/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecd9"
+  },
+  "ClientID": 21927,
+  "ProductID": 25110,
+  "OrderId": "AC1098",
+  "Revenue": 9912,
+  "SalesDate": "13/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecea"
+  },
+  "ClientID": 11518,
+  "ProductID": 25046,
+  "OrderId": "AB1081",
+  "Revenue": 3680,
+  "SalesDate": "20/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eced"
+  },
+  "ClientID": 94088,
+  "ProductID": 25091,
+  "OrderId": "AB1079",
+  "Revenue": 3553,
+  "SalesDate": "15/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecf3"
+  },
+  "ClientID": 26875,
+  "ProductID": 25091,
+  "OrderId": "AB1073",
+  "Revenue": 5884,
+  "SalesDate": "27/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed0a"
+  },
+  "ClientID": 69636,
+  "ProductID": 25091,
+  "OrderId": "AB1051",
+  "Revenue": 5871,
+  "SalesDate": "5/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed0c"
+  },
+  "ClientID": 10527,
+  "ProductID": 25175,
+  "OrderId": "AB1048",
+  "Revenue": 5362,
+  "SalesDate": "31/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed0f"
+  },
+  "ClientID": 94110,
+  "ProductID": 25091,
+  "OrderId": "AB1046",
+  "Revenue": 6911,
+  "SalesDate": "26/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed28"
+  },
+  "ClientID": 14740,
+  "ProductID": 25091,
+  "OrderId": "AB1019",
+  "Revenue": 7086,
+  "SalesDate": "29/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed30"
+  },
+  "ClientID": 94051,
+  "ProductID": 25083,
+  "OrderId": "AB1012",
+  "Revenue": 6509,
+  "SalesDate": "17/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed35"
+  },
+  "ClientID": 94109,
+  "ProductID": 25150,
+  "OrderId": "AB1007",
+  "Revenue": 6187,
+  "SalesDate": "3/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed49"
+  },
+  "ClientID": 14039,
+  "ProductID": 25109,
+  "OrderId": "AB986",
+  "Revenue": 6271,
+  "SalesDate": "28/7/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed51"
+  },
+  "ClientID": 94051,
+  "ProductID": 25091,
+  "OrderId": "AB978",
+  "Revenue": 6700,
+  "SalesDate": "21/6/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed5b"
+  },
+  "ClientID": 94051,
+  "ProductID": 25091,
+  "OrderId": "AB970",
+  "Revenue": 6258,
+  "SalesDate": "28/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed5c"
+  },
+  "ClientID": 42510,
+  "ProductID": 25150,
+  "OrderId": "AB967",
+  "Revenue": 6716,
+  "SalesDate": "26/5/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed7b"
+  },
+  "ClientID": 92671,
+  "ProductID": 25091,
+  "OrderId": "AB939",
+  "Revenue": 5910,
+  "SalesDate": "2/3/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed7c"
+  },
+  "ClientID": 45366,
+  "ProductID": 25109,
+  "OrderId": "AB936",
+  "Revenue": 5216,
+  "SalesDate": "22/2/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed86"
+  },
+  "ClientID": 94074,
+  "ProductID": 25150,
+  "OrderId": "AB926",
+  "Revenue": 5260,
+  "SalesDate": "19/1/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec46"
+  },
+  "ClientID": 63368,
+  "ProductID": 25109,
+  "OrderId": "AB1247",
+  "Revenue": 3342,
+  "SalesDate": "25/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec39"
+  },
+  "ClientID": 72483,
+  "ProductID": 25074,
+  "OrderId": "AB1259",
+  "Revenue": 5239,
+  "SalesDate": "9/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec4a"
+  },
+  "ClientID": 37871,
+  "ProductID": 25083,
+  "OrderId": "AB1242",
+  "Revenue": 4591,
+  "SalesDate": "12/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec55"
+  },
+  "ClientID": 94106,
+  "ProductID": 25022,
+  "OrderId": "AB1234",
+  "Revenue": 6276,
+  "SalesDate": "4/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec58"
+  },
+  "ClientID": 94051,
+  "ProductID": 25074,
+  "OrderId": "AB1230",
+  "Revenue": 6325,
+  "SalesDate": "3/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec63"
+  },
+  "ClientID": 19366,
+  "ProductID": 25083,
+  "OrderId": "AB1215",
+  "Revenue": 3920,
+  "SalesDate": "18/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec6b"
+  },
+  "ClientID": 94051,
+  "ProductID": 25023,
+  "OrderId": "AB1210",
+  "Revenue": 6382,
+  "SalesDate": "3/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec6f"
+  },
+  "ClientID": 10527,
+  "ProductID": 25110,
+  "OrderId": "AB1205",
+  "Revenue": 5490,
+  "SalesDate": "28/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec73"
+  },
+  "ClientID": 94133,
+  "ProductID": 25023,
+  "OrderId": "AB1202",
+  "Revenue": 3944,
+  "SalesDate": "16/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec7c"
+  },
+  "ClientID": 94129,
+  "ProductID": 25091,
+  "OrderId": "AB1192",
+  "Revenue": 4134,
+  "SalesDate": "6/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec85"
+  },
+  "ClientID": 94051,
+  "ProductID": 25022,
+  "OrderId": "AB1184",
+  "Revenue": 6920,
+  "SalesDate": "20/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec88"
+  },
+  "ClientID": 94091,
+  "ProductID": 25175,
+  "OrderId": "AB1180",
+  "Revenue": 3735,
+  "SalesDate": "19/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec8a"
+  },
+  "ClientID": 94051,
+  "ProductID": 25083,
+  "OrderId": "AB1178",
+  "Revenue": 6449,
+  "SalesDate": "17/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec8c"
+  },
+  "ClientID": 79610,
+  "ProductID": 25175,
+  "OrderId": "AB1175",
+  "Revenue": 3609,
+  "SalesDate": "16/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec95"
+  },
+  "ClientID": 21927,
+  "ProductID": 25109,
+  "OrderId": "AB1165",
+  "Revenue": 6536,
+  "SalesDate": "2/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec9b"
+  },
+  "ClientID": 12946,
+  "ProductID": 25023,
+  "OrderId": "AB1158",
+  "Revenue": 3133,
+  "SalesDate": "26/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec9d"
+  },
+  "ClientID": 21927,
+  "ProductID": 25109,
+  "OrderId": "AB1160",
+  "Revenue": 6740,
+  "SalesDate": "26/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eca0"
+  },
+  "ClientID": 42510,
+  "ProductID": 25150,
+  "OrderId": "AB1155",
+  "Revenue": 5257,
+  "SalesDate": "25/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecc4"
+  },
+  "ClientID": 21927,
+  "ProductID": 25046,
+  "OrderId": "AB1119",
+  "Revenue": 6352,
+  "SalesDate": "10/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecc7"
+  },
+  "ClientID": 94051,
+  "ProductID": 25171,
+  "OrderId": "AB1118",
+  "Revenue": 6968,
+  "SalesDate": "9/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eccf"
+  },
+  "ClientID": 10527,
+  "ProductID": 25109,
+  "OrderId": "AB1108",
+  "Revenue": 5390,
+  "SalesDate": "26/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecd5"
+  },
+  "ClientID": 10527,
+  "ProductID": 25109,
+  "OrderId": "AB1103",
+  "Revenue": 5661,
+  "SalesDate": "20/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecdd"
+  },
+  "ClientID": 10527,
+  "ProductID": 25074,
+  "OrderId": "AB1093",
+  "Revenue": 5417,
+  "SalesDate": "9/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecdf"
+  },
+  "ClientID": 94129,
+  "ProductID": 25022,
+  "OrderId": "AC1095",
+  "Revenue": 5130,
+  "SalesDate": "9/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ece3"
+  },
+  "ClientID": 94051,
+  "ProductID": 25083,
+  "OrderId": "AC1088",
+  "Revenue": 6584,
+  "SalesDate": "4/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed1a"
+  },
+  "ClientID": 18105,
+  "ProductID": 25091,
+  "OrderId": "AB1034",
+  "Revenue": 5941,
+  "SalesDate": "2/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed31"
+  },
+  "ClientID": 94098,
+  "ProductID": 25150,
+  "OrderId": "AB1013",
+  "Revenue": 6176,
+  "SalesDate": "17/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed33"
+  },
+  "ClientID": 94051,
+  "ProductID": 25083,
+  "OrderId": "AB1009",
+  "Revenue": 6546,
+  "SalesDate": "4/10/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed3a"
+  },
+  "ClientID": 94051,
+  "ProductID": 25023,
+  "OrderId": "AB1003",
+  "Revenue": 6607,
+  "SalesDate": "21/9/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed3b"
+  },
+  "ClientID": 10527,
+  "ProductID": 25083,
+  "OrderId": "AB1001",
+  "Revenue": 5374,
+  "SalesDate": "19/9/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed53"
+  },
+  "ClientID": 10527,
+  "ProductID": 25023,
+  "OrderId": "AB977",
+  "Revenue": 5561,
+  "SalesDate": "20/6/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed6a"
+  },
+  "ClientID": 76171,
+  "ProductID": 25091,
+  "OrderId": "AB955",
+  "Revenue": 5836,
+  "SalesDate": "17/4/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed84"
+  },
+  "ClientID": 21227,
+  "ProductID": 25022,
+  "OrderId": "AB928",
+  "Revenue": 6945,
+  "SalesDate": "25/1/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec32"
+  },
+  "ClientID": 51444,
+  "ProductID": 25022,
+  "OrderId": "AB1266",
+  "Revenue": 3356,
+  "SalesDate": "22/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec34"
+  },
+  "ClientID": 10527,
+  "ProductID": 25083,
+  "OrderId": "AB1264",
+  "Revenue": 5645,
+  "SalesDate": "19/11/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec45"
+  },
+  "ClientID": 42615,
+  "ProductID": 25074,
+  "OrderId": "AB1246",
+  "Revenue": 3191,
+  "SalesDate": "25/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec4c"
+  },
+  "ClientID": 59430,
+  "ProductID": 25023,
+  "OrderId": "AB1239",
+  "Revenue": 6342,
+  "SalesDate": "8/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec4f"
+  },
+  "ClientID": 12946,
+  "ProductID": 25091,
+  "OrderId": "AB1236",
+  "Revenue": 3835,
+  "SalesDate": "5/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec61"
+  },
+  "ClientID": 61448,
+  "ProductID": 25022,
+  "OrderId": "AB1218",
+  "Revenue": 5094,
+  "SalesDate": "21/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec65"
+  },
+  "ClientID": 71567,
+  "ProductID": 25150,
+  "OrderId": "AB1217",
+  "Revenue": 4163,
+  "SalesDate": "18/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec6a"
+  },
+  "ClientID": 50430,
+  "ProductID": 25046,
+  "OrderId": "AB1209",
+  "Revenue": 9988,
+  "SalesDate": "3/9/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec8f"
+  },
+  "ClientID": 10527,
+  "ProductID": 25171,
+  "OrderId": "AB1172",
+  "Revenue": 5711,
+  "SalesDate": "10/7/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eca6"
+  },
+  "ClientID": 45366,
+  "ProductID": 25109,
+  "OrderId": "AB1151",
+  "Revenue": 5216,
+  "SalesDate": "19/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecb6"
+  },
+  "ClientID": 21927,
+  "ProductID": 25022,
+  "OrderId": "AB1134",
+  "Revenue": 6506,
+  "SalesDate": "28/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecc9"
+  },
+  "ClientID": 10527,
+  "ProductID": 25175,
+  "OrderId": "AB1115",
+  "Revenue": 5739,
+  "SalesDate": "4/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ece4"
+  },
+  "ClientID": 94111,
+  "ProductID": 25083,
+  "OrderId": "AC1089",
+  "Revenue": 6584,
+  "SalesDate": "4/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecf2"
+  },
+  "ClientID": 94074,
+  "ProductID": 25150,
+  "OrderId": "AB1074",
+  "Revenue": 483,
+  "SalesDate": "28/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed0e"
+  },
+  "ClientID": 94051,
+  "ProductID": 25091,
+  "OrderId": "AB1045",
+  "Revenue": 6911,
+  "SalesDate": "26/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed18"
+  },
+  "ClientID": 10527,
+  "ProductID": 25150,
+  "OrderId": "AB1036",
+  "Revenue": 3884,
+  "SalesDate": "5/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed40"
+  },
+  "ClientID": 94153,
+  "ProductID": 25074,
+  "OrderId": "AB997",
+  "Revenue": 6662,
+  "SalesDate": "5/9/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed41"
+  },
+  "ClientID": 94051,
+  "ProductID": 25083,
+  "OrderId": "AB994",
+  "Revenue": 6669,
+  "SalesDate": "25/8/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed45"
+  },
+  "ClientID": 60327,
+  "ProductID": 25023,
+  "OrderId": "AB990",
+  "Revenue": 6235,
+  "SalesDate": "3/8/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed50"
+  },
+  "ClientID": 94073,
+  "ProductID": 25022,
+  "OrderId": "AB981",
+  "Revenue": 6300,
+  "SalesDate": "26/6/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed52"
+  },
+  "ClientID": 94156,
+  "ProductID": 25091,
+  "OrderId": "AB979",
+  "Revenue": 6700,
+  "SalesDate": "21/6/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed69"
+  },
+  "ClientID": 42615,
+  "ProductID": 25074,
+  "OrderId": "AB954",
+  "Revenue": 6761,
+  "SalesDate": "17/4/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed7f"
+  },
+  "ClientID": 94111,
+  "ProductID": 25022,
+  "OrderId": "AB933",
+  "Revenue": 6920,
+  "SalesDate": "10/2/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec54"
+  },
+  "ClientID": 94051,
+  "ProductID": 25074,
+  "OrderId": "AB1233",
+  "Revenue": 6761,
+  "SalesDate": "4/10/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ec7f"
+  },
+  "ClientID": 72558,
+  "ProductID": 25109,
+  "OrderId": "AB1189",
+  "Revenue": 3200,
+  "SalesDate": "1/8/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eca8"
+  },
+  "ClientID": 10527,
+  "ProductID": 25110,
+  "OrderId": "AB1148",
+  "Revenue": 5495,
+  "SalesDate": "18/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecb2"
+  },
+  "ClientID": 63742,
+  "ProductID": 25074,
+  "OrderId": "AC1140",
+  "Revenue": 3734,
+  "SalesDate": "1/6/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecc5"
+  },
+  "ClientID": 94070,
+  "ProductID": 25023,
+  "OrderId": "AB1120",
+  "Revenue": 6141,
+  "SalesDate": "10/5/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69eccc"
+  },
+  "ClientID": 94051,
+  "ProductID": 25110,
+  "OrderId": "AB1111",
+  "Revenue": 6920,
+  "SalesDate": "27/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecd0"
+  },
+  "ClientID": 10527,
+  "ProductID": 25109,
+  "OrderId": "AB1109",
+  "Revenue": 5527,
+  "SalesDate": "26/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecd8"
+  },
+  "ClientID": 94111,
+  "ProductID": 25022,
+  "OrderId": "AB1101",
+  "Revenue": 6720,
+  "SalesDate": "18/4/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ece6"
+  },
+  "ClientID": 64915,
+  "ProductID": 25074,
+  "OrderId": "AB1085",
+  "Revenue": 6249,
+  "SalesDate": "29/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ece9"
+  },
+  "ClientID": 94140,
+  "ProductID": 25022,
+  "OrderId": "AB1083",
+  "Revenue": 3952,
+  "SalesDate": "23/3/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ecf4"
+  },
+  "ClientID": 92671,
+  "ProductID": 25109,
+  "OrderId": "AB1071",
+  "Revenue": 3333,
+  "SalesDate": "26/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed03"
+  },
+  "ClientID": 94051,
+  "ProductID": 25110,
+  "OrderId": "AB1058",
+  "Revenue": 6902,
+  "SalesDate": "12/2/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed10"
+  },
+  "ClientID": 18850,
+  "ProductID": 25109,
+  "OrderId": "AB1044",
+  "Revenue": 3540,
+  "SalesDate": "25/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed17"
+  },
+  "ClientID": 94128,
+  "ProductID": 25083,
+  "OrderId": "AB1037",
+  "Revenue": 4521,
+  "SalesDate": "11/1/2018"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed4c"
+  },
+  "ClientID": 72483,
+  "ProductID": 25171,
+  "OrderId": "AB983",
+  "Revenue": 6676,
+  "SalesDate": "18/7/2017"
+},
+{
+  "_id": {
+    "$oid": "653a1aae182952c67c69ed67"
+  },
+  "ClientID": 18850,
+  "ProductID": 25175,
+  "OrderId": "AB957",
+  "Revenue": 5106,
+  "SalesDate": "24/4/2017"
+}]

@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "653a1b17182952c67c69edd1"
+  },
+  "SalesRepID": "EM348",
+  "SalesRep": "Klein, George",
+  "SalesRegion": "USA01"
+},
+{
+  "_id": {
+    "$oid": "653a1b17182952c67c69edd6"
+  },
+  "SalesRepID": "EM353",
+  "SalesRep": "Knapp, Linda",
+  "SalesRegion": "USA06"
+},
+{
+  "_id": {
+    "$oid": "653a1b17182952c67c69edce"
+  },
+  "SalesRepID": "EM345",
+  "SalesRep": "Bowen, Molly",
+  "SalesRegion": "Can01"
+},
+{
+  "_id": {
+    "$oid": "653a1b17182952c67c69edd4"
+  },
+  "SalesRepID": "EM351",
+  "SalesRep": "Wheeler, Graham",
+  "SalesRegion": "USA04"
+},
+{
+  "_id": {
+    "$oid": "653a1b17182952c67c69edd2"
+  },
+  "SalesRepID": "EM349",
+  "SalesRep": "White, Carly",
+  "SalesRegion": "USA02"
+},
+{
+  "_id": {
+    "$oid": "653a1b17182952c67c69edd3"
+  },
+  "SalesRepID": "EM350",
+  "SalesRep": "Valentine, Lewis",
+  "SalesRegion": "USA03"
+},
+{
+  "_id": {
+    "$oid": "653a1b17182952c67c69edd0"
+  },
+  "SalesRepID": "EM347",
+  "SalesRep": "Ryan, Frances",
+  "SalesRegion": "Can03"
+},
+{
+  "_id": {
+    "$oid": "653a1b17182952c67c69edcf"
+  },
+  "SalesRepID": "EM346",
+  "SalesRep": "Garner, Heidi",
+  "SalesRegion": "Can02"
+},
+{
+  "_id": {
+    "$oid": "653a1b17182952c67c69edd5"
+  },
+  "SalesRepID": "EM352",
+  "SalesRep": "Flores, Madison",
+  "SalesRegion": "USA05"
+},
+{
+  "_id": {
+    "$oid": "653a1b17182952c67c69edd7"
+  },
+  "SalesRepID": "EM354",
+  "SalesRep": "Payne, Carly",
+  "SalesRegion": "USA07"
+}]

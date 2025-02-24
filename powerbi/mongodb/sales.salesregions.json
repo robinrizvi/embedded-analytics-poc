@@ -1,0 +1,567 @@
+[{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed8f"
+  },
+  "SalesRegion": "USA01",
+  "State": "AK",
+  "Latitude": 61.370716,
+  "Longitude": -152.404419
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed9b"
+  },
+  "SalesRegion": "Can02",
+  "State": "MB",
+  "Latitude": 50.15002545,
+  "Longitude": -96.88332178
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edc3"
+  },
+  "SalesRegion": "USA06",
+  "State": "TN",
+  "Latitude": 35.747845,
+  "Longitude": -86.692345
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed95"
+  },
+  "SalesRegion": "USA03",
+  "State": "CO",
+  "Latitude": 39.059811,
+  "Longitude": -105.311104
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed9f"
+  },
+  "SalesRegion": "USA07",
+  "State": "IN",
+  "Latitude": 39.849426,
+  "Longitude": -86.258278
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69eda8"
+  },
+  "SalesRegion": "USA04",
+  "State": "MN",
+  "Latitude": 45.694454,
+  "Longitude": -93.900192
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69eda9"
+  },
+  "SalesRegion": "USA01",
+  "State": "MO",
+  "Latitude": 38.456085,
+  "Longitude": -92.288368
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edad"
+  },
+  "SalesRegion": "USA03",
+  "State": "NC",
+  "Latitude": 35.630066,
+  "Longitude": -79.806419
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed98"
+  },
+  "SalesRegion": "USA05",
+  "State": "FL",
+  "Latitude": 27.766279,
+  "Longitude": -81.686783
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed9c"
+  },
+  "SalesRegion": "USA06",
+  "State": "IA",
+  "Latitude": 42.011539,
+  "Longitude": -93.210526
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edc0"
+  },
+  "SalesRegion": "USA05",
+  "State": "SC",
+  "Latitude": 33.856892,
+  "Longitude": -80.945007
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed90"
+  },
+  "SalesRegion": "USA05",
+  "State": "AL",
+  "Latitude": 32.806671,
+  "Longitude": -86.79113
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed91"
+  },
+  "SalesRegion": "USA02",
+  "State": "AR",
+  "Latitude": 34.969704,
+  "Longitude": -92.373123
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69eda6"
+  },
+  "SalesRegion": "USA07",
+  "State": "ME",
+  "Latitude": 44.693947,
+  "Longitude": -69.381927
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed96"
+  },
+  "SalesRegion": "USA07",
+  "State": "CT",
+  "Latitude": 41.597782,
+  "Longitude": -72.755371
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed9d"
+  },
+  "SalesRegion": "USA01",
+  "State": "ID",
+  "Latitude": 44.240459,
+  "Longitude": -114.478828
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69eda0"
+  },
+  "SalesRegion": "USA07",
+  "State": "KS",
+  "Latitude": 38.5266,
+  "Longitude": -96.726486
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69eda4"
+  },
+  "SalesRegion": "Can01",
+  "State": "NB",
+  "Latitude": 45.26704185,
+  "Longitude": -66.07667505
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edb1"
+  },
+  "SalesRegion": "USA07",
+  "State": "NJ",
+  "Latitude": 40.298904,
+  "Longitude": -74.521011
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edb2"
+  },
+  "SalesRegion": "USA07",
+  "State": "NM",
+  "Latitude": 34.840515,
+  "Longitude": -106.248482
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edbe"
+  },
+  "SalesRegion": "CAN03",
+  "State": "QC",
+  "Latitude": 49.82257774,
+  "Longitude": -64.34799504
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69eda1"
+  },
+  "SalesRegion": "USA06",
+  "State": "KY",
+  "Latitude": 37.66814,
+  "Longitude": -84.670067
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edb6"
+  },
+  "SalesRegion": "USA07",
+  "State": "NY",
+  "Latitude": 42.165726,
+  "Longitude": -74.948051
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edb8"
+  },
+  "SalesRegion": "USA06",
+  "State": "OH",
+  "Latitude": 40.388783,
+  "Longitude": -82.764915
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69eda7"
+  },
+  "SalesRegion": "USA05",
+  "State": "MI",
+  "Latitude": 43.326618,
+  "Longitude": -84.536095
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edbd"
+  },
+  "SalesRegion": "Can01",
+  "State": "PE",
+  "Latitude": 46.24928164,
+  "Longitude": -63.13132512
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edc5"
+  },
+  "SalesRegion": "USA02",
+  "State": "UT",
+  "Latitude": 40.150032,
+  "Longitude": -111.862434
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edc8"
+  },
+  "SalesRegion": "USA01",
+  "State": "WA",
+  "Latitude": 47.400902,
+  "Longitude": -121.490494
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed8e"
+  },
+  "SalesRegion": "Can02",
+  "State": "AB",
+  "Latitude": 53.01669802,
+  "Longitude": -112.8166386
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69eda3"
+  },
+  "SalesRegion": "USA07",
+  "State": "MA",
+  "Latitude": 42.230171,
+  "Longitude": -71.530106
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed97"
+  },
+  "SalesRegion": "USA07",
+  "State": "DE",
+  "Latitude": 39.318523,
+  "Longitude": -75.507141
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edaf"
+  },
+  "SalesRegion": "USA03",
+  "State": "NE",
+  "Latitude": 41.12537,
+  "Longitude": -98.268082
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edba"
+  },
+  "SalesRegion": "Can01",
+  "State": "ON",
+  "Latitude": 44.56664532,
+  "Longitude": -80.84998519
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edc4"
+  },
+  "SalesRegion": "USA04",
+  "State": "TX",
+  "Latitude": 31.054487,
+  "Longitude": -97.563461
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edc7"
+  },
+  "SalesRegion": "USA07",
+  "State": "VT",
+  "Latitude": 44.045876,
+  "Longitude": -72.710686
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed94"
+  },
+  "SalesRegion": "USA02",
+  "State": "CA",
+  "Latitude": 36.116203,
+  "Longitude": -119.681564
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edae"
+  },
+  "SalesRegion": "USA03",
+  "State": "ND",
+  "Latitude": 47.528912,
+  "Longitude": -99.784012
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edb3"
+  },
+  "SalesRegion": "Can02",
+  "State": "NS",
+  "Latitude": 45.58327578,
+  "Longitude": -62.63331934
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edbf"
+  },
+  "SalesRegion": "USA07",
+  "State": "RI",
+  "Latitude": 41.680893,
+  "Longitude": -71.51178
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edc6"
+  },
+  "SalesRegion": "USA06",
+  "State": "VA",
+  "Latitude": 37.769337,
+  "Longitude": -78.169968
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed99"
+  },
+  "SalesRegion": "USA05",
+  "State": "GA",
+  "Latitude": 33.040619,
+  "Longitude": -83.643074
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69eda5"
+  },
+  "SalesRegion": "USA07",
+  "State": "MD",
+  "Latitude": 39.063946,
+  "Longitude": -76.802101
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edb0"
+  },
+  "SalesRegion": "USA07",
+  "State": "NH",
+  "Latitude": 43.452492,
+  "Longitude": -71.563896
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edb7"
+  },
+  "SalesRegion": "Can01",
+  "State": "NU",
+  "Latitude": 68.76746684,
+  "Longitude": -81.23608303
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edc1"
+  },
+  "SalesRegion": "USA07",
+  "State": "SD",
+  "Latitude": 44.299782,
+  "Longitude": -99.438828
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed9a"
+  },
+  "SalesRegion": "USA01",
+  "State": "HI",
+  "Latitude": 21.094318,
+  "Longitude": -157.498337
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edbb"
+  },
+  "SalesRegion": "USA01",
+  "State": "OR",
+  "Latitude": 44.572021,
+  "Longitude": -122.070938
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edcb"
+  },
+  "SalesRegion": "USA03",
+  "State": "WY",
+  "Latitude": 42.755966,
+  "Longitude": -107.30249
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edab"
+  },
+  "SalesRegion": "USA07",
+  "State": "MT",
+  "Latitude": 46.921925,
+  "Longitude": -110.454353
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edb4"
+  },
+  "SalesRegion": "USA02",
+  "State": "NV",
+  "Latitude": 38.313515,
+  "Longitude": -117.055374
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edb5"
+  },
+  "SalesRegion": "Can03",
+  "State": "NT",
+  "Latitude": 62.40005292,
+  "Longitude": -110.7333291
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edb9"
+  },
+  "SalesRegion": "USA04",
+  "State": "OK",
+  "Latitude": 35.565342,
+  "Longitude": -96.928917
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edc2"
+  },
+  "SalesRegion": "Can02",
+  "State": "SK",
+  "Latitude": 50.93331097,
+  "Longitude": -102.7999891
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edc9"
+  },
+  "SalesRegion": "USA06",
+  "State": "WI",
+  "Latitude": 44.268543,
+  "Longitude": -89.616508
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed9e"
+  },
+  "SalesRegion": "USA07",
+  "State": "IL",
+  "Latitude": 40.349457,
+  "Longitude": -88.986137
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69eda2"
+  },
+  "SalesRegion": "USA05",
+  "State": "LA",
+  "Latitude": 31.169546,
+  "Longitude": -91.867805
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edaa"
+  },
+  "SalesRegion": "USA07",
+  "State": "MS",
+  "Latitude": 32.741646,
+  "Longitude": -89.678696
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edac"
+  },
+  "SalesRegion": "Can02",
+  "State": "NL",
+  "Latitude": 49.17440025,
+  "Longitude": -57.42691878
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed93"
+  },
+  "SalesRegion": "Can02",
+  "State": "BC",
+  "Latitude": 49.09996035,
+  "Longitude": -116.516697
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69ed92"
+  },
+  "SalesRegion": "USA02",
+  "State": "AZ",
+  "Latitude": 33.729759,
+  "Longitude": -111.431221
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edcc"
+  },
+  "SalesRegion": "Can03",
+  "State": "YT",
+  "Latitude": 61.35037539,
+  "Longitude": -139.0000017
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edbc"
+  },
+  "SalesRegion": "USA07",
+  "State": "PA",
+  "Latitude": 40.590752,
+  "Longitude": -77.209755
+},
+{
+  "_id": {
+    "$oid": "653a1b09182952c67c69edca"
+  },
+  "SalesRegion": "USA06",
+  "State": "WV",
+  "Latitude": 38.491226,
+  "Longitude": -80.954453
+}]
