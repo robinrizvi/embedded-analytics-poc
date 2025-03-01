@@ -1,8 +1,7 @@
 ﻿# Embedded Analytics POC
 
 ## Table of Contents
-1. [Features/Requirements](#Features/Requirements)
-2. [Poc Details](#POC-Details)
+1. [Poc Details](#POC-Details)
 	1. [Source Code](#Source-Code)
 	2. [POC application](#POC-application)
 		1. [Modules](#Modules)
@@ -13,7 +12,7 @@
 		1. [Authoring](#Authoring)
 		2. [Embedding](#Embedding)
 	4. [Embedding Examples](#Embedding-Examples)
-3. [PowerBI Authoring Overview](#PowerBI-Authoring-Overview)
+2. [PowerBI Authoring Overview](#PowerBI-Authoring-Overview)
 	1. [Licensing](#Licensing)
 		1. [Feature comparison](#Feature-comparison)
 		2. [Relative pricing comparison](#Relative-pricing-comparison)
@@ -26,35 +25,11 @@
 		4. [Interaction](#Interaction)
 		5. [Security](#Security)
 		6. [Management](#Management)
-4. [PowerBI Embedded Overview](#PowerBI-Embedded-Overview)
+3. [PowerBI Embedded Overview](#PowerBI-Embedded-Overview)
 	1. [Licensing](#Licensing)
 	2. [Authentication](#Authentication)
 		1. [Authentication Flow](#Authentication-Flow)
 	3. [APIs](#APIs)
-
-## Features/Requirements
-|CATEGORY| REQ# | DESCRIPTION |
-|--|--|--|
-| **Device/display support** | EA-1 | Web |
-| | EA-2 | Embedded display within the frame or boundary |
-|  | EA-3 | Scaled view in desktop, tablet and mobile (fluid resolution rendering) |
-| **Connectivity** | EA-4 | MongoDB |
-| **Report Interaction** | EA-5 | Drill down and roll ups within the report |
-|  | EA-6 | Context passing - App to PowerBI - Filters, Sort order, context (clicked item) |
-|  | EA-7 | Context passing - PowerBI to App - Click handlers with contextual information |
-|  | EA-8 | Multi-tenant consideration when reading and rendering data for reports |
-| **Security** | EA-9 | Authentication flow with SSO type mechanism between app and powerbi |
-|  | EA-10 | Session validation when interacting with powerbi components |
-|  | EA-11 | Tenant data segregation in PowerBI |
-| **Embedding capabilities** | EA-12 | Embedding dashboards (page with multiple visuals) |
-|  | EA-13 | Embedding individual reports or visuals |
-|  | EA-14 | Web integration (Tech Stack - Spring and Angular |
-| **Other/Out of scope** | EA-x | Embedding authoring |
-|  | EA-x | Ad-hoc Embedding |
-|  | EA-x | QnA Embedding |
-|  | EA-x | Drill through powerbi to powerbi |
-|  | EA-x | Drill through powerbi to application |
-|  | EA-x | Datasource connectivity through REST/Web |
 
 ## POC Details
 ### Source Code
